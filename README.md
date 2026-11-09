@@ -240,6 +240,10 @@ Or use a values.yaml file:
 
 `helm install littlelink-server k8s-at-home/littlelink-server -f values.yaml`
 
+## ☁️ One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/LittleLink%20Server/)
+
 ## 🔧 Configuration
 
 See [docs/analytics.md](docs/analytics.md) for analytics setup instructions and [docs/healthcheck.md](docs/healthcheck.md) for health check configuration.
